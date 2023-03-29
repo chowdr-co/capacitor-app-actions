@@ -1,18 +1,11 @@
 {
   "name": "capacitor-app-actions",
-  "version": "1.0.4-chowdr.2",
+  "version": "1.0.4-chowdr.3",
   "description": "iOS and Android Capacitor plugin for App Actions",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "unpkg": "dist/plugin.js",
-  "files": [
-    "android/src/main/",
-    "android/build.gradle",
-    "dist/",
-    "ios/Plugin/",
-    "CapacitorAppActions.podspec"
-  ],
   "author": "Nitish Sachar",
   "license": "MIT",
   "repository": {
